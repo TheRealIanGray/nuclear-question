@@ -2,6 +2,7 @@
 
 
 ## Table of Contents
+* [Link to Tableau](#link-to-tableau)
 * [Goals](#goals)
 * [Why Nuclear Energy?](#why-nuclear-energy)
 * [Data Questions](#data-questions)
@@ -14,6 +15,9 @@
 * [Pollution and Power](#pollution-and-power)
 * [Tools](#tools)
 * [Data Sources](#data-sources)
+
+## Link to Tableau
+https://public.tableau.com/app/profile/ian.alister.gray/viz/TheNuclearQuestion/AssessingNuclearPower
 
 ## Goals
 
